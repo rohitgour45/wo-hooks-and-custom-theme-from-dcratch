@@ -1,1 +1,1 @@
-# wo-hooks-and-custom-theme-from-dcratch
+# wp-hooks-and-custom-theme-from-scratch
